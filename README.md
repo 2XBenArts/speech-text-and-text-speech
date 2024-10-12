@@ -117,7 +117,7 @@ If you have Docker and WSL installed, you can run the application in a Docker co
 2. **Create a Virtual Environment (Optional but Recommended):**
    ```bash
    python -m venv venv
-   source venv/bin/activate    # On Windows: venv\Scripts\activate.bat
+   source venv\Scripts\activate.bat
    ```
 
 3. **Install Requirements using WSL subsystem or linux:**
